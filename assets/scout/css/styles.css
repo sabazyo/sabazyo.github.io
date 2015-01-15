@@ -14,3 +14,37 @@
 .eclaireur {
 	color: #02519e;
 }
+
+.unite a:link  {
+	color: #8bbd38;
+}
+
+.baladin a:link  {
+	color: #00a1d8;
+}
+
+.louveteau a:link  {
+	color: #276e50;
+
+}
+
+.eclaireur a:link  {
+	color: #02519e;
+}
+
+.unite a:visted  {
+	color: #8bbd38;
+}
+
+.baladin a:visted  {
+	color: #00a1d8;
+}
+
+.louveteau a:visted  {
+	color: #276e50;
+
+}
+
+.eclaireur a:visted  {
+	color: #02519e;
+}
